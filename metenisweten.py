@@ -7,7 +7,10 @@ b = input ('Vul een heel getal in ')
 print ('')
 
 max = int(a)
-b = int(b)
+min = int(b)
 
-if max > b :
+if max > min:
     print('a is het grootste getal: ' + str(max))
+
+elif max < min : 
+    print('a is het kleinste getal: ' + str(min))
