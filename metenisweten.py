@@ -17,3 +17,7 @@ elif max < min :
 
 else:
         print('a en b zijn even groot')
+        print('')
+
+print('Het minimum is: ' + str(min))
+print('Het maximum is: ' + str(max))
