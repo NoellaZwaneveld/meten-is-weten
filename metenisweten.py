@@ -14,3 +14,6 @@ if max > min:
 
 elif max < min : 
     print('a is het kleinste getal: ' + str(min))
+
+else:
+        print('a en b zijn even groot')
